@@ -1,0 +1,20 @@
+[
+  {
+    "id": "91aa5cce-8c78-4b64-ab43-0cc90e7f3cfc",
+    "title": "Mynd",
+    "year": 1998,
+    "watched": true
+  },
+  {
+    "id": "12a56977-f414-4cee-9b79-fcee74807375",
+    "title": "Mynd2",
+    "year": 2001,
+    "watched": true
+  },
+  {
+    "id": "7476a11a-a88c-4453-b76d-63f3369e5957",
+    "title": "Mynd3",
+    "year": 1978,
+    "watched": false
+  }
+]
